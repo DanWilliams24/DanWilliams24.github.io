@@ -1,18 +1,29 @@
----
-layout: page
-title: Research
-permalink: /about/
----
+# Research
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+![](https://i.imgur.com/SYzq2mV.png)
+![](https://i.imgur.com/T50fXIy.png)
 
 
-[jekyll-organization]: https://github.com/jekyll
+Thus far, I have conducted research at UMBC with a professor, and at Johns Hopkins Applied Physics Laboratory as a part of the [CIRCUIT program](https://www.jhuapl.edu/circuit/). My current research interests include **AI/ML, Evolutionary Computing, Cybersecurity, and Beyond-Moore Computing Paradigms**. In the future, I hope to earn a Ph.D. in computer science furthering and contributing to scientific progress through research. 
+
+### Research Experience Details
+* [CIRCUIT Program](https://) 
+* [UMBC Ebiquity Lab](https://)
+
+*More details coming soon*
+
+
+
+## Publications / Conferences
+
+JHU APL's Reverse Engineering Magazine: Decoded - Featured Article **(Accepted)**
+* Title: “*Reachability-Based Monitoring for Protection against AI/Machine Learning Supply Chain Vulnerabilities within Cyber-Physical Systems*” by Daniel Williams, Chelece Clark, Rachel McGahan, Bradley Potteiger, Leon Gonzalez, Patrick Musau, Nicholas Potteiger, and Rachel Cohen
+
+
+2022 IEEE International Conference on Assured Autonomy ([ICAA](https://iaa.jhu.edu/icaa/)) - Works In Progress Conference Paper **(Accepted)**
+* Title: “*Discovery of AI/ML Supply Chain Vulnerabilities within Automotive Cyber-Physical Systems*” by Daniel Williams, Chelece Clark, Rachel McGahan, Dr. Bradley Potteiger, Daniel Cohen, Patrick Musau
+
+*Preprints/pdf links will be added when available!*
+
+## Honors / Awards
+Google CS Research Mentorship Program Scholar 2021
