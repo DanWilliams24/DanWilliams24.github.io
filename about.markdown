@@ -1,4 +1,9 @@
-# Research
+---
+layout: page
+title: About
+title: Research
+permalink: /about/
+---
 
 ![](https://i.imgur.com/SYzq2mV.png)
 ![](https://i.imgur.com/T50fXIy.png)
