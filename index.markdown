@@ -17,7 +17,7 @@ Hello, my name is Daniel! I am a JHU APL CIRCUIT Research Fellow majoring in com
 <br />
 
 
-Welcome to my personal website. Here, you can find a detailed record of my projects conducted over the years + details on my recent research activities. I have gained experience in a variety of different languages, platforms, and technologies, while also trying to do some good in the world along the way.
+Welcome to my personal website. Here, you can find details on all the software engineering projects I have done + details on my recent research activities. I have gained experience in a variety of different languages, platforms, and technologies, while also trying to do some good in the world along the way.
 <br /> 
 
 <p align="center"> 🔭 <i>I am actively looking for internship opportunities for Summer 2022. Please feel free to reach out with opportunities you believe I'd be a good fit for!</i>
@@ -27,7 +27,7 @@ Welcome to my personal website. Here, you can find a detailed record of my proje
 <hr>
 <br />
 <div align="center">
-    <a href="url">Projects</a> | <a href="about">Research</a>
+    <a href="projects">Projects</a> | <a href="research">Research</a>
 
 </div>
 

@@ -1,8 +1,7 @@
 ---
 layout: page
-title: About
 title: Research
-permalink: /about/
+permalink: /research/
 ---
 
 ![](https://i.imgur.com/SYzq2mV.png)

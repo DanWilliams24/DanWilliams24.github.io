@@ -21,7 +21,7 @@
 title: Daniel J. Williams
 email: dwillia2@umbc.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  A portfolio of personal software engineering projects developed by me, Daniel Williams
+  A portfolio of research & personal software engineering projects by me, Daniel Williams
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://DanWilliams24.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
