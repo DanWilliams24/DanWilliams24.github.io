@@ -12,8 +12,8 @@ permalink: /about/
 Thus far, I have conducted research at UMBC with a professor, and at Johns Hopkins Applied Physics Laboratory as a part of the [CIRCUIT program](https://www.jhuapl.edu/circuit/). My current research interests include **AI/ML, Evolutionary Computing, Cybersecurity, and Beyond-Moore Computing Paradigms**. In the future, I hope to earn a Ph.D. in computer science furthering and contributing to scientific progress through research. 
 
 ### Research Experience Details
-* [CIRCUIT Program](https://) 
-* [UMBC Ebiquity Lab](https://)
+* [CIRCUIT Program](circuit) 
+* [UMBC Ebiquity Lab](nsa-onramp)
 
 *More details coming soon*
 
