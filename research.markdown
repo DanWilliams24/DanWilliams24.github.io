@@ -8,7 +8,7 @@ permalink: /research/
 ![](https://i.imgur.com/T50fXIy.png)
 
 
-Thus far, I have conducted research at UMBC with a professor, and at Johns Hopkins Applied Physics Laboratory as a part of the [CIRCUIT program](https://www.jhuapl.edu/circuit/). This summer, I will be conducting research at MIT, specifically at the intersection of AI and Nuclear Energy. My current research interests include **AI/ML, Evolutionary Computing, Cybersecurity, and Beyond-Moore Computing Paradigms**. In the future, I hope to earn a Ph.D. in computer science furthering and contributing to scientific progress through research. 
+Thus far, I have conducted research at UMBC with a professor, and at Johns Hopkins Applied Physics Laboratory as a part of the [CIRCUIT program](https://www.jhuapl.edu/circuit/). This summer, I will be conducting research at MIT, specifically at the intersection of AI and Nuclear Energy. My current research interests span **AI/ML, Evolutionary Computing, Cybersecurity, and Beyond-Moore Computing Paradigms**. In the future, I plan to earn a Ph.D. in computer science furthering and contributing to scientific progress through research. 
 
 ### Research Experience Details
 * [CIRCUIT Program](circuit) 

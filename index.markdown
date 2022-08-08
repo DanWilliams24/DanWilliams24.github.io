@@ -9,7 +9,7 @@ Meyerhoff Scholar (M32)\
 Email: dwillia2@umbc.edu
 
 <br />
-![Me](./images/professional.jpeg){: style="width:200px;height: auto; align:left; float: left; margin-right:15px;"}
+![Me](./images/headshot_2022_closeup.jpg){: style="width:200px;height: auto; align:left; float: left; margin-right:15px;"}
 <br />
 Hello, my name is Daniel! I am an incoming MIT MSRP Research Intern as well as current a JHU APL CIRCUIT Research Fellow. I am majoring in computer science with a physics minor at UMBC. I have professional experience in various domains including AI/ML and cybersecurity. My current research focuses on AI/ML vulnerability discovery in cyber-physical systems. I also have experience in computer vision, machine learning, and robotics.
 <br />
