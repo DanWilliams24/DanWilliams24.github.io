@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects: Classifying COVID Risk by Geographic Region
-permalink: /projects/covid19
+permalink: /covid19
 ---
 
 ![](https://i.imgur.com/rpTO1EH.png)

@@ -12,7 +12,7 @@ I seek to build a career developing complex decision making systems that are of 
 * **MCPSClassroomHelper**: Using APIs and Node.js to help MCPS school district students manage online coursework.
 
 ### AI + Machine Learning
-* **COVID-19 Risk Data Analytics**: [Using Random Forest and SVMs to classify COVID Risk by U.S County.](/projects/covid19)
+* **COVID-19 Risk Data Analytics**: [Using Random Forest and SVMs to classify COVID Risk by U.S County.](/covid19)
 * **NLP Sentiment Analysis**: Using TF-IDF analysis and classifiers for effective movie review sentiment prediciton.  
 * **DanCV**: OpenCV Object Detection for Autonomous Robot Pathfinding & Obstacle Avoidance
 
