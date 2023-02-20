@@ -11,13 +11,14 @@ Email: dwillia2@umbc.edu
 <br />
 ![Me](./images/headshot_2022_cropped.jpg){: style="width:200px;height: auto; align:left; float: left; margin-right:15px;"}
 <br />
-Hello, my name is Daniel! I am an incoming MIT MSRP Research Intern as well as current a JHU APL CIRCUIT Research Fellow. I am majoring in computer science with a physics minor at UMBC. I have professional experience in various domains including AI/ML and cybersecurity. My current research focuses on AI/ML vulnerability discovery in cyber-physical systems. I also have experience in computer vision, machine learning, and robotics.
+
+Hello, my name is Daniel! I am an undergraduate student and Meyerhoff Scholar majoring in computer science at UMBC. I have experiences at Johns Hopkins Applied Physics Laboratory as a former CIRCUIT Research Fellow and Massachusetts Institute of Technology as an MSRP Research Intern. I am passionate about deep learning research, physics, software development, and science.  My current research focuses on <b>Deep Learning for Nuclear Fission Power Plant (NPP) Optimization</b>. I also have experience in computer vision, cybersecurity, and robotics.</p>
+                        
 <br />
 <br />
 <br />
 
-
-Welcome to my personal website. Here, you can find details on all the software engineering projects I have done + details on my recent research activities. I have gained experience in a variety of different languages, platforms, and technologies, while also trying to do some good in the world along the way.
+Welcome to my personal website. Here, you can find details about who I am and what I do. I have gained experience in a variety of different languages, platforms, and technologies, while also trying to do some good in the world along the way.
 <br /> 
 
 <p align="center"> 🔭 <i>I am actively looking for internship opportunities for Summer 2023. Please feel free to reach out with opportunities you believe I'd be a good fit for!</i>
