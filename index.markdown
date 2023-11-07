@@ -11,14 +11,14 @@ Email: dwillia2@umbc.edu
 <br />
 ![Me](./images/headshot_2022_cropped.jpg){: style="width:200px;height: auto; align:left; float: left; margin-right:15px;"}
 <br />
-Hello, my name is Daniel! I am an undergraduate student and Meyerhoff Scholar majoring in computer science at UMBC. I have experiences at Johns Hopkins Applied Physics Laboratory as a former CIRCUIT Research Fellow and Massachusetts Institute of Technology as an MSRP Research Intern. I am passionate about deep learning research, physics, software development, and science.  My current research focuses on <b>Deep Learning for Nuclear Fission Power Plant (NPP) Optimization</b>. I also have experience in computer vision, cybersecurity, and robotics.
+<b>My name is Daniel Williams, I am a highly motivated senior undergraduate majoring in computer science with a focus on AI/ML at the University of Maryland, Baltimore County, graduating in Spring 2024.</b>  My research interests lie in utilizing AI to tackle challenges in physics and clean energy. He has a strong research background in nuclear energy, previously conducting award-winning fusion and fission research at Princeton Plasma Physics Laboratory (PPPL) and Massachusetts Institute Of Technology (MIT) respectively. Additionally, he has published research on ethical hacking during his time at Johns Hopkins Applied Physics Laboratory. In the future, Daniel hopes to earn a Ph.D. applying Artificial Intelligence to optimize existing sustainable energy options and enable fusion energy as a carbon-free energy source. He also seeks to become a professor, advocating for diversity and science literacy in local communities.
 
 <br />
 
 Welcome to my personal website. Here, you can find details about who I am and what I do. I have gained experience in a variety of different languages, platforms, and technologies, while also trying to do some good in the world along the way.
 <br /> 
 
-<p align="center"> 🔭 <i>I am actively looking for internship opportunities for Summer 2023. Please feel free to reach out with opportunities you believe I'd be a good fit for!</i>
+<p align="center"> 🔭 <i>I am no longer looking for internship opportunities for Summer 2023. Still, please feel free to reach out with opportunities you believe I'd be a good fit for!</i>
 </p>
 
 
