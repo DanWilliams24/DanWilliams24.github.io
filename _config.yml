@@ -403,6 +403,3 @@ jsonresume:
   - languages
   - interests
   - references
-
-
-exclude: ['old_web']
