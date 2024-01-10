@@ -6,5 +6,3 @@ related_posts: false
 ---
 
 Started my B.S in Computer Science at University of Maryland, Baltimore County as a Meyerhoff Scholar!
-
-Won the D.C Region Princeton Prize in Race Relations Certificate of Accomplishment!
