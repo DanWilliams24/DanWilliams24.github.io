@@ -10,8 +10,8 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>dwillia2@umbc.edu</p>
-    <p>1000 Hilltop Cir</p>
-    <p>Catonsville, MD 20852</p>
+    <p>Expected Spring 2024</p>
+    <p>Catonsville, MD</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! My name is Daniel, I am a highly motivated senior undergraduate majoring in computer science with a focus on AI/ML at University of Maryland, Baltimore County, graduating in Spring 2024. My research interests lie in utilizing AI to tackle challenges in physics and clean energy.
+Hi, My name is Daniel. I am a highly motivated senior undergraduate majoring in computer science with a focus on AI/ML at University of Maryland, Baltimore County. My research interests lie in utilizing AI to tackle challenges in physics and clean energy.
 
 I have a strong research background in nuclear energy, previously conducting award-winning fusion and fission research at Princeton Plasma Physics Laboratory (PPPL) and Massachusetts Institute Of Technology (MIT) respectively. Additionally, I have published research on ethical hacking during my time at Johns Hopkins Applied Physics Laboratory.
 
