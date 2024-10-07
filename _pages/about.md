@@ -9,9 +9,9 @@ profile:
   image: headshot_2022_cropped.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>dwillia2@umbc.edu</p>
+    <p>dw1978@princeton.edu</p>
     <p>Expected Spring 2029</p>
-    <p>Catonsville, MD</p>
+    <p>Princeton, NJ</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-Hi, My name is Daniel. I am a PhD student at Princeton and current GEM Fellow working on using machine learning to tackle challenges in physics and clean energy, co-advised by Dr. Ryan Adams and Dr. Egemen Kolemen at the Laboratory for Intelligent Probabilistic Systems (LIPS) and Plasma Control Laboratory. In 2024, I completed my BS in Computer Science (2024) at the University of Maryland, Batimore County (UMBC) as a Meyerhoff Scholar.
+Hi, my name is Daniel. I am a PhD student at Princeton researching machine learning, physics, and clean energy, co-advised by Dr. Ryan Adams and Dr. Egemen Kolemen at the Laboratory for Intelligent Probabilistic Systems (LIPS) and Plasma Control Laboratory. In 2024, I completed my BS in Computer Science (2024) at the University of Maryland, Batimore County (UMBC) as a Meyerhoff Scholar.
 
 My research background is in the energy sector. During Summer 2024, I conducted Large Language model (LLM+RAG) research to help maintain aging hydro-electric plants at Oakridge National Laboratory. I have also previously conducted award-winning fusion and fission research at Princeton Plasma Physics Laboratory (PPPL) and Massachusetts Institute Of Technology (MIT) respectively. Additionally, I have published research on ethical hacking during my time at Johns Hopkins Applied Physics Laboratory.
 
