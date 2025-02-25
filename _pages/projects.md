@@ -8,7 +8,10 @@ nav_order: 2
 display_categories: [Social Impact, AI + Machine Learning, Mobile App Development (iOS + Android)]
 horizontal: false
 ---
-I seek to build a career developing complex decision making systems that are of particular benefit to society, science and engineering. Here is some of what I've built:
+
+My research background is in the energy sector. During Summer 2024 at Oakridge National Laboratory, I studied Large Language Models and GraphRAG to help maintain aging hydroelectric infrastructure. Previously, I conducted research in nuclear fusion at Princeton Plasma Physics Laboratory focusing on stellarator design, and in nuclear fission at MIT working on AI-based surrogate models for reactor core optimization. I have also published research on ethical hacking at Johns Hopkins Applied Physics Laboratory.
+
+I seek to build a career developing complex decision making systems that are of particular benefit to society, science and engineering. Here is some of what I've built in my free time:
 
 ### Social Impact
 * **Mediconnect**: UMD Grant funded SMS Chat Bot to connect injured protesters to medical help during BLM Protests.
