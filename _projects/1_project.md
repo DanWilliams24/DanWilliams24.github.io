@@ -6,7 +6,8 @@ img: https://i.imgur.com/rpTO1EH.png
 importance: 1
 permalink: /projects/covid19
 category: Social Impact
-related_publications: einstein1956investigations, einstein1950meaning
+published: false
+
 ---
 
 The COVID-19 Pandemic had a widespread impact across the United States during 2020. It is clear that while the pandemic affected all counties throughout the US, some counties were hit harder than others. We sought to answer the following three questions in particular:

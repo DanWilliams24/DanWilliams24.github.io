@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Daniel
 middle_name: J.
 last_name: Williams
-email: dwillia2@umbc.edu
+email: dw1978@princeton.edu
 description: >- # this means to ignore newlines until "baseurl:"
   A portfolio of research & personal software engineering projects by me, Daniel Williams
 
@@ -121,8 +121,8 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: Daniel Williams # blog_name will be displayed in your blog page
+blog_description: Thoughts on research, computing, and clean energy
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -216,7 +216,7 @@ plugins:
   - jekyll-imagemagick
   - jekyll-jupyter-notebook
   - jekyll-link-attributes
-  - jekyll-minifier
+  # - jekyll-minifier  # disabled locally: causes EDEADLK on macOS Docker volumes
   - jekyll-paginate-v2
   - jekyll/scholar
   - jekyll-sitemap
@@ -239,6 +239,7 @@ sass:
 # -----------------------------------------------------------------------------
 
 jekyll-minifier:
+  enabled: false
   exclude: ['robots.txt']
   uglifier_args:
     harmony: true
@@ -267,8 +268,8 @@ display_categories: ['blockquotes'] # these categories will be displayed on the 
 
 scholar:
 
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Williams]
+  first_name: [Daniel, D. J., D.]
 
   style: apa
   locale: en
@@ -382,6 +383,28 @@ mdb:
 medium_zoom:
   version: "1.0.8"
   integrity: "sha256-7PhEpEWEW0XXQ0k6kQrPKwuoIomz8R8IYyuU1Qew4P8="
+
+# -----------------------------------------------------------------------------
+# Third Party Libraries
+# -----------------------------------------------------------------------------
+
+third_party_libraries:
+  download: false # if true, download the libraries and use them locally
+  mdb:
+    url:
+      css: "https://cdn.jsdelivr.net/npm/mdbootstrap@4.20.0/css/mdb.min.css"
+      js: "https://cdn.jsdelivr.net/npm/mdbootstrap@4.20.0/js/mdb.min.js"
+    integrity:
+      css: "sha256-jpjYvU3G3N6nrrBwXJoVEYI/0zw8htfFnhT9ljN3JJw="
+      js: "sha256-NdbiivsvWt7VYCt6hYNT3h/th9vSTL4EDWeGs5SN3DA="
+  bootstrap-table:
+    url:
+      css: "https://unpkg.com/bootstrap-table@1.22.1/dist/bootstrap-table.min.css"
+      js: "https://unpkg.com/bootstrap-table@1.22.1/dist/bootstrap-table.min.js"
+  google_fonts:
+    priority: 2
+    url:
+      fonts: "https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:100,300,400,500,700|Material+Icons"
 
 # -----------------------------------------------------------------------------
 # Get external JSON data

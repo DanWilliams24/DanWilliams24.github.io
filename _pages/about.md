@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <b>GEM Fellow @ Princeton University
+subtitle: <b>GEM Fellow @ Princeton University</b>
 
 profile:
   align: right
@@ -20,9 +20,12 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-I'm Daniel, a first-year PhD student at Princeton University and I study how we can use machine learning to design clean energy systems. Working with Dr. Ryan Adams and Dr. Egemen Kolemen, I conduct research between the Laboratory for Intelligent Probabilistic Systems (LIPS) and the Plasma Control Laboratory. I recently completed my BS in Computer Science at the University of Maryland, Baltimore County (UMBC) as a Meyerhoff Scholar.
+I'm Daniel, a PhD Candidate at Princeton University studying how machine learning can be used to design clean energy systems. Working with Dr. Ryan Adams and Dr. Egemen Kolemen, I conduct research between the Laboratory for Intelligent Probabilistic Systems (LIPS) and the Plasma Control Laboratory. I completed my BS in Computer Science at the University of Maryland, Baltimore County (UMBC) as a Meyerhoff Scholar.
 
-As a PhD student, my research spans problems in optimization, inverse design and electromagnetics, notably aiming to develop novel algorithms for nuclear fusion reactor design. I aim to work at the intersection of research and industry, and promote science literacy and diversity in STEM.
+My research focuses on inverse design methods, with an emphasis on building differentiable, GPU-accelerated software for computational geometry, machine learning, and design.
+
+
+When I am not doing research, I am deeply passionate about promoting science literacy and diversity in STEM. In the future, I aim to work at the intersection of research and policy.
 
 Welcome to my personal website. Here, you can find details about who I am and what I do. I have gained experience in a variety of different scientific fields, coding languages, and technologies, while also trying to do some good in the world along the way.
 

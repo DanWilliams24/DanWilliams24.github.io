@@ -20,7 +20,7 @@ I seek to build a career developing complex decision making systems that are of 
 
 ### AI + Machine Learning
 * **COVID-19 Risk Data Analytics**: [Using Random Forest and SVMs to classify COVID Risk by U.S County.](/projects/covid19)
-* **NLP Sentiment Analysis**: Using TF-IDF analysis and classifiers for effective movie review sentiment prediciton.  
+* **NLP Sentiment Analysis**: Using TF-IDF analysis and classifiers for effective movie review sentiment prediction.  
 * **DanCV**: OpenCV Object Detection for Autonomous Robot Pathfinding & Obstacle Avoidance
 
 ### Mobile App Development (iOS + Android)
